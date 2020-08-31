@@ -3,7 +3,7 @@ console.log("Atribuição de Variáveis");
 
 
 
-const idade = 26;
+let idade = 26;
 const primeiroNome = "Maria";
 const sobrenome = "Souza";
 
@@ -17,3 +17,6 @@ const nomeCompleto = primeiroNome + sobrenome; //sobrescrevendo
 
 
 console.log(nomeCompleto);
+
+idade = idade + 4;  
+console.log(idade);
