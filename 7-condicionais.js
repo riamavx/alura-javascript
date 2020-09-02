@@ -29,3 +29,5 @@ if (idadeComprador >= 18) {
 
 console.log(listasDeDestinos);
 
+console.log("tudo certo")
+
