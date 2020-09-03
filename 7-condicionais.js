@@ -33,3 +33,5 @@ if(idadeComprador > 18 && temPassagemComprada){
 
 console.log(listasDeDestinos);
 
+console.log("tudo certo")
+
