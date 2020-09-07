@@ -40,7 +40,7 @@ console.log("Destino existe", destinoExiste)
 
 
 
-for(let i = 0; i <3; i++){
+for(let i = 0; i <4; i++){
     if(listasDeDestinos[i] == destino){
         destinoExiste = true
         
